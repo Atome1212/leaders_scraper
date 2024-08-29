@@ -1,6 +1,7 @@
+# 🌍 Country Leaders Scraper
 ![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
 
-# 🌍 Country Leaders Scraper
+# Language
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
 
