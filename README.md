@@ -7,7 +7,7 @@
 
 ## 📑 Table of Contents
 -  [📝 Description](#-description)
--  [📥 Installing Dependencies](#-installing-dependencies)
+-  [📥 Installation](#-installing-dependencies)
 -  [🚀 Usage](#-usage)
 -  [🔍 Function Descriptions](#-function-descriptions)
 -  [📌 Notes](#-notes)
@@ -18,11 +18,11 @@
 
 This Python script retrieves information about leaders from various countries through an API and extracts the first paragraph of their biography from their Wikipedia page. The data is then saved to a JSON file.
 
-## 📥 Installing Dependencies
+## 📥 Installation
 
-You can install the necessary dependencies using pip:
-
-```sh
+```bash
+git clone git@github.com:Atome1212/leaders_scraper.git
+cd wine-market-analysis
 pip install -r requirements.txt
 ```
 
