@@ -26,7 +26,7 @@ This Python script retrieves information about leaders from various countries th
 You can install the necessary dependencies using pip:
 
 ```sh
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
