@@ -3,14 +3,14 @@
 ![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
 
 ## 📑 Table of Contents
-1. [📝 Description](#description)
-2. [🔧 Prerequisites](#prerequisites)
-3. [📥 Installing Dependencies](#installing-dependencies)
-4. [🚀 Usage](#usage)
-5. [🔍 Function Descriptions](#function-descriptions)
-6. [📌 Notes](#notes)
-7. [👥 Authors](#authors)
-8. [🌳 Project Tree](#project-tree)
+1. [📝 Description](#-description)
+2. [🔧 Prerequisites](#-prerequisites)
+3. [📥 Installing Dependencies](#-installing-dependencies)
+4. [🚀 Usage](#-usage)
+5. [🔍 Function Descriptions](#-function-descriptions)
+6. [📌 Notes](#-notes)
+7. [👥 Authors](#-authors)
+8. [🌳 Project Tree](#-project-tree)
 
 ## 📝 Description
 
