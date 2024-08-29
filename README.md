@@ -69,7 +69,7 @@ Main function that orchestrates the execution of the various steps: retrieving l
 - The script handles errors in fetching the biography by adding a "Bio not available" entry in case of failure.
 - If an API request is rejected (403 status code), the script will attempt to retrieve new cookies before retrying.
 
-## 👥 Authors
+## 👥 Author
 
 **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
 
