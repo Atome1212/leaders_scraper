@@ -76,14 +76,12 @@ Main function that orchestrates the execution of the various steps: retrieving l
 ## 🌳 Project Tree
 
 ```
- /country-leaders-scraper
-│
-├── leaders_scraper.py
-├── README.md
-├── /data
+/leaders_scraper
+├── Data
 │   └── leaders.json
-└── /tests
-└── test_leaders_scraper.py
+├── README.md
+├── leaders_scraper.py
+└── requirements.txt
 ```
 
 This tree provides an overview of the project structure, showing where each file and directory is located.
