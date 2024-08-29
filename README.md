@@ -26,16 +26,16 @@ This Python script retrieves information about leaders from various countries th
 You can install the necessary dependencies using pip:
 
 ```sh
-    pip install requests beautifulsoup4
+pip install requests beautifulsoup4
 ```
 
 ## 🚀 Usage
 
-    1. Copy the script to your local machine.
-    2. Run the script using Python:
+1. Copy the script to your local machine.
+2. Run the script using Python:
 
     ```sh
-    python ./leaders_scraper/leaders_scraper.py
+python ./leaders_scraper/leaders_scraper.py
     ```
 
 ## 🔍 Function Descriptions
