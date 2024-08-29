@@ -1,7 +1,16 @@
 
-# Country Leaders Scraper
+# 🌍 Country Leaders Scraper
 
 ![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
+
+## 📑 Table of Contents
+1. [Description](#description)
+2. [Prerequisites](#prerequisites)
+3. [Installing Dependencies](#installing-dependencies)
+4. [Usage](#usage)
+5. [Function Descriptions](#function-descriptions)
+6. [Notes](#notes)
+7. [Authors](#authors)
 
 ## Description
 
@@ -29,7 +38,7 @@ pip install requests beautifulsoup4
 python ./leaders_scraper/leaders_scraper.py
 ```
 
-## Function Descriptions
+## 🛠️ Function Descriptions
 
 ### `get_first_paragraph(url: str, session) -> str`
 
@@ -58,12 +67,11 @@ This function verifies that the saved data matches the original data by loading 
 
 Main function that orchestrates the execution of the various steps: retrieving leaders, saving, and verification.
 
-## Notes
+## 📝 Notes
 
 - The script handles errors in fetching the biography by adding a "Bio not available" entry in case of failure.
 - If an API request is rejected (403 status code), the script will attempt to retrieve new cookies before retrying.
 
-## Authors
+## 👥 Authors
 
 - Developer: Atome
-
