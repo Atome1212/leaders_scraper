@@ -1,25 +1,19 @@
 # 🌍 Country Leaders Scraper
-
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 ![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
 
 ## 📑 Table of Contents
-1. [📝 Description](#-description)
-2. [🔧 Prerequisites](#-prerequisites)
-3. [📥 Installing Dependencies](#-installing-dependencies)
-4. [🚀 Usage](#-usage)
-5. [🔍 Function Descriptions](#-function-descriptions)
-6. [📌 Notes](#-notes)
-7. [👥 Authors](#-authors)
-8. [🌳 Project Tree](#-project-tree)
+-  [📝 Description](#-description)
+-  [📥 Installing Dependencies](#-installing-dependencies)
+-  [🚀 Usage](#-usage)
+-  [🔍 Function Descriptions](#-function-descriptions)
+-  [📌 Notes](#-notes)
+-  [👥 Authors](#-authors)
+-  [🌳 Project Tree](#-project-tree)
 
 ## 📝 Description
 
 This Python script retrieves information about leaders from various countries through an API and extracts the first paragraph of their biography from their Wikipedia page. The data is then saved to a JSON file.
-
-## 🔧 Prerequisites
-
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-- Python modules: `requests`, `beautifulsoup4`, `re`
 
 ## 📥 Installing Dependencies
 
