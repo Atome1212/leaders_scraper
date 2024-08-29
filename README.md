@@ -18,7 +18,7 @@ This Python script retrieves information about leaders from various countries th
 
 ## 🔧 Prerequisites
 
-- Python 3.x
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 - Python modules: `requests`, `beautifulsoup4`, `re`
 
 ## 📥 Installing Dependencies
@@ -74,7 +74,7 @@ Main function that orchestrates the execution of the various steps: retrieving l
 
 ## 👥 Authors
 
-Developer: Atome
+**👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
 
 ## 🌳 Project Tree
 
