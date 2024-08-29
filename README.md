@@ -34,9 +34,9 @@ pip install requests beautifulsoup4
 1. Copy the script to your local machine.
 2. Run the script using Python:
 
-    ```sh
+```sh
 python ./leaders_scraper/leaders_scraper.py
-    ```
+```
 
 ## 🔍 Function Descriptions
 
@@ -44,8 +44,8 @@ python ./leaders_scraper/leaders_scraper.py
 
 This function retrieves the first paragraph of a given Wikipedia article. It uses a requests session to perform the HTTP request and BeautifulSoup to parse the HTML.
 
-    - `url`: URL of the Wikipedia page
-    - `session`: HTTP requests session
+- `url`: URL of the Wikipedia page
+- `session`: HTTP requests session
 
 `get_cookies() -> requests.cookies.RequestsCookieJar` 
 
@@ -69,24 +69,24 @@ Main function that orchestrates the execution of the various steps: retrieving l
 
 ## 📌 Notes
 
-    - The script handles errors in fetching the biography by adding a "Bio not available" entry in case of failure.
-    - If an API request is rejected (403 status code), the script will attempt to retrieve new cookies before retrying.
+- The script handles errors in fetching the biography by adding a "Bio not available" entry in case of failure.
+- If an API request is rejected (403 status code), the script will attempt to retrieve new cookies before retrying.
 
 ## 👥 Authors
 
-    - Developer: Atome
+Developer: Atome
 
 ## 🌳 Project Tree
 
-    ```
-    /country-leaders-scraper
-    │
-    ├── leaders_scraper.py
-    ├── README.md
-    ├── /data
-    │   └── leaders.json
-    └── /tests
-        └── test_leaders_scraper.py
-    ```
+```
+ /country-leaders-scraper
+│
+├── leaders_scraper.py
+├── README.md
+├── /data
+│   └── leaders.json
+└── /tests
+└── test_leaders_scraper.py
+```
 
 This tree provides an overview of the project structure, showing where each file and directory is located.
