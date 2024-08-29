@@ -1,9 +1,8 @@
+# 🌍 Country Leaders Scraper
 
-    # 🌍 Country Leaders Scraper
+![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
 
-    ![Country Leaders Scraper](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU3aGpncjZheW1hNGtvbzN5eGxyM2o1YXk0eTMwa3U1N2pvcW4wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp)
-
-    ## 📑 Table of Contents
+## 📑 Table of Contents
     1. [📝 Description](#description)
     2. [🔧 Prerequisites](#prerequisites)
     3. [📥 Installing Dependencies](#installing-dependencies)
@@ -13,24 +12,24 @@
     7. [👥 Authors](#authors)
     8. [🌳 Project Tree](#project-tree)
 
-    ## 📝 Description
+## 📝 Description
 
-    This Python script retrieves information about leaders from various countries through an API and extracts the first paragraph of their biography from their Wikipedia page. The data is then saved to a JSON file.
+This Python script retrieves information about leaders from various countries through an API and extracts the first paragraph of their biography from their Wikipedia page. The data is then saved to a JSON file.
 
-    ## 🔧 Prerequisites
+## 🔧 Prerequisites
 
-    - Python 3.x
-    - Python modules: `requests`, `beautifulsoup4`, `re`
+- Python 3.x
+- Python modules: `requests`, `beautifulsoup4`, `re`
 
-    ## 📥 Installing Dependencies
+## 📥 Installing Dependencies
 
-    You can install the necessary dependencies using pip:
+You can install the necessary dependencies using pip:
 
-    ```sh
+```sh
     pip install requests beautifulsoup4
-    ```
+```
 
-    ## 🚀 Usage
+## 🚀 Usage
 
     1. Copy the script to your local machine.
     2. Run the script using Python:
