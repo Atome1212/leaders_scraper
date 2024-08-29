@@ -40,30 +40,30 @@ python ./leaders_scraper/leaders_scraper.py
 
 ## 🛠️ Function Descriptions
 
-** `get_first_paragraph(url: str, session) -> str` **
+`get_first_paragraph(url: str, session) -> str` 
 
 This function retrieves the first paragraph of a given Wikipedia article. It uses a requests session to perform the HTTP request and BeautifulSoup to parse the HTML.
 
 - `url`: URL of the Wikipedia page
 - `session`: HTTP requests session
 
-** `get_cookies() -> requests.cookies.RequestsCookieJar` **
+`get_cookies() -> requests.cookies.RequestsCookieJar` 
 
 This function retrieves the cookies necessary to access the API.
 
-** `get_leaders() -> Dict[str, List[str]]` **
+`get_leaders() -> Dict[str, List[str]]`
 
 This function retrieves the list of countries and their leaders from the API. For each leader, it extracts the first paragraph of their Wikipedia biography.
 
-** `save(leaders_per_country: Dict[str, List[str]]) -> None` **
+`save(leaders_per_country: Dict[str, List[str]]) -> None`
 
 This function saves the leaders' data to a JSON file.
 
-** `check(leaders_per_country: Dict[str, List[str]]) -> None` **
+`check(leaders_per_country: Dict[str, List[str]]) -> None`
 
 This function verifies that the saved data matches the original data by loading the JSON file and comparing the two datasets.
 
-** `main() -> None` **
+`main() -> None`
 
 Main function that orchestrates the execution of the various steps: retrieving leaders, saving, and verification.
 
